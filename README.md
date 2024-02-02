@@ -3,7 +3,7 @@
 
 * 👀 I’m interested in getting more knowledge.
 
-*🌱 I’m currently learning Data Science.
+* 🌱 I’m currently learning Data Science.
 
 * 👨‍💻 I’m looking to collaborate on whatever makes me get better at what I do.
 
